@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmisas" alt="pmisas" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en un pryecto independiente de ecommerce [https://github.com/pmisas/angular_ecommerce](https://github.com/pmisas/angular_ecommerce)
+- 🔭 Actualmente estoy trabajando en un pryecto independiente de ecommerce [ecommerce front angular](https://github.com/pmisas/angular_ecommerce)
 
 - 🌱 Estoy aprendiendo **Springboot, Materialize**
 
