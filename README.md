@@ -1,13 +1,13 @@
 <!-- Encabezado animado con un GIF o SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hola%2C+soy+%40Pmisas;+Bienvenid%40+a+mi+repositorio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hola%2C+soy+%40pmisas;+Bienvenid%40+a+mi+repositorio!" alt="Typing SVG" />
 </p>
 
 <!-- Badges rápidos -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Vistas&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/TU_USUARIO?style=flat-square" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=pmisas&label=Vistas&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/pmisas?style=flat-square" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/pmisas?style=flat-square" alt="stars"/>
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ### 📈 Estadísticas de GitHub
 | &nbsp; | &nbsp; |
 | --- | --- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_rank=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight) |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&margin-w=15) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=pmisas&show_icons=true&theme=tokyonight&hide_rank=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmisas&layout=compact&theme=tokyonight) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmisas&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=pmisas&theme=tokyonight&margin-w=15) |
 
 ### 📝 Proyectos recientes
 - **Editor de Guiones** – app colaborativa real-time con control de versiones.  
