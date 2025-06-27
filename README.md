@@ -1,6 +1,6 @@
 <!-- Encabezado animado con un GIF o SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hola%2C+soy+%40Paula Misas;+Bienvenid%40+a+mi+repositorio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hola%2C+soy+%40PaulaMisas;+Bienvenid%40+a+mi+repositorio!" alt="Typing SVG" />
 </p>
 
 <!-- Badges rápidos -->
