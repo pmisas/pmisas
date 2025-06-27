@@ -6,8 +6,6 @@
 <!-- Badges rápidos -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pmisas&label=Vistas&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/pmisas?style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/pmisas?style=flat-square" alt="stars"/>
 </p>
 
 ---
@@ -29,12 +27,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb">
   <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker">
 </p>
-
-### 📈 Estadísticas de GitHub
-| &nbsp; | &nbsp; |
-| --- | --- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=pmisas&show_icons=true&theme=tokyonight&hide_rank=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmisas&layout=compact&theme=tokyonight) |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmisas&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=pmisas&theme=tokyonight&margin-w=15) |
 
 ### 📝 Proyectos recientes
 - **Editor de Guiones** – app colaborativa real-time con control de versiones.  
