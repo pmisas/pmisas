@@ -1,6 +1,6 @@
 <!-- Encabezado animado con un GIF o SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hola%2C+soy+%40TU_USUARIO;+Bienvenid%40+a+mi+repositorio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Hola%2C+soy+%40Paula Misas;+Bienvenid%40+a+mi+repositorio!" alt="Typing SVG" />
 </p>
 
 <!-- Badges rápidos -->
@@ -15,9 +15,9 @@
 ### 🙋‍♀️ Sobre mí
 - 🎓 Estudiante de Ingeniería de Sistemas (últimos semestres).  
 - 🔭 Actualmente creando **aplicaciones full-stack** con Go, Java (Spring), Node y Angular.  
-- 🌱 Aprendiendo *DevOps* y *arquitecturas basadas en eventos*.  
+- 🌱 Aprendiendo *Machine learning* y fundamentos de **MLOps**.*.  
 - 💬 Pregúntame sobre **Golang, Spring Boot, Node.js, Angular, Docker**.  
-- ⚡ Fun fact: nunca digo que no a un reto de *hackatón*.
+- ⚡ Fun fact: 🪄 Creo firmemente que los tests unitarios son actos de magia preventiva.
 
 ### 🛠️ Tech Stack
 <p>
@@ -41,18 +41,8 @@
 - **Oceánica** – e-commerce artesanal con microservicios Spring Boot + Vertex AI.  
 - **Plataforma tipo Wattpad** – lectura y escritura de libros con Go y MongoDB.
 
-<details>
-<summary>🔃 Últimos commits</summary>
-
-<!-- ACTUALIZA AUTOMÁTICAMENTE CON UN ACTION -->
-<!--START_SECTION:activity-->
-1. 🔥 Push — TU_USUARIO/mi-proyecto (#123)
-2. 🌟 Starred — awesome-repo ;)
-<!--END_SECTION:activity-->
-</details>
-
 ---
 
 ### 🤝 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/TU_LINKEDIN)
-[![Correo](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:TU_CORREO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/pmisas)
+[![Correo](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:paulamisas.m@gmail.com)
