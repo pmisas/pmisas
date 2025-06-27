@@ -43,5 +43,5 @@
 ---
 
 ### 🤝 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/pmisas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/paumisas)
 [![Correo](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:paulamisas.m@gmail.com)
